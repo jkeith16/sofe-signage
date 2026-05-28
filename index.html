@@ -759,8 +759,10 @@ async function fetchLiveData() {
   setLiveIndicator('loading');
   try {
     const res = await fetch(SP_API, {
-      headers: { Accept: 'application/json;odata=verbose' },
-      credentials: 'include'
+      headers: { 
+        Accept: 'application/json;odata=verbose'
+      },
+      mode: 'cors'
     });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const json = await res.json();
