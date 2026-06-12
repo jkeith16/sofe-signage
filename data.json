@@ -1,0 +1,301 @@
+{
+  "updated": "2026-06-12",
+  "cy": [
+    {
+      "org": "Alpha Epsilon Pi",
+      "total": 49,
+      "status": "Unacceptable Year 1",
+      "current": 34.5
+    },
+    {
+      "org": "Alpha Gamma Rho",
+      "total": 87.5,
+      "status": "★★",
+      "current": 40
+    },
+    {
+      "org": "Beta Theta Pi",
+      "total": 77.5,
+      "status": "★",
+      "current": 30.5
+    },
+    {
+      "org": "Beta Upsilon Chi",
+      "total": 93,
+      "status": "★★★",
+      "current": 36
+    },
+    {
+      "org": "Delta Chi",
+      "total": 82.5,
+      "status": "★★",
+      "current": 33
+    },
+    {
+      "org": "Delta Kappa Epsilon",
+      "total": 54.5,
+      "status": "Unacceptable Year 1",
+      "current": 35.5
+    },
+    {
+      "org": "Delta Tau Delta",
+      "total": 44.5,
+      "status": "Unacceptable Year 1",
+      "current": 10
+    },
+    {
+      "org": "Delta Upsilon",
+      "total": 70,
+      "status": "★",
+      "current": 37
+    },
+    {
+      "org": "FarmHouse",
+      "total": 92.5,
+      "status": "★★★",
+      "current": 37
+    },
+    {
+      "org": "Kappa Alpha Order",
+      "total": 39.5,
+      "status": "Provisional",
+      "current": 39
+    },
+    {
+      "org": "Kappa Sigma",
+      "total": 86,
+      "status": "★★",
+      "current": 37
+    },
+    {
+      "org": "Lambda Chi Alpha",
+      "total": 81,
+      "status": "★★",
+      "current": 43
+    },
+    {
+      "org": "Phi Gamma Delta",
+      "total": 50.5,
+      "status": "Unacceptable Year 1",
+      "current": 28.5
+    },
+    {
+      "org": "Phi Kappa Psi",
+      "total": 65.5,
+      "status": "Unacceptable Year 1",
+      "current": 52
+    },
+    {
+      "org": "Phi Kappa Tau",
+      "total": 70.5,
+      "status": "★",
+      "current": 29
+    },
+    {
+      "org": "Phi Sigma Kappa",
+      "total": 70.5,
+      "status": "★",
+      "current": 35.5
+    },
+    {
+      "org": "Pi Kappa Alpha",
+      "total": 73,
+      "status": "★",
+      "current": 51
+    },
+    {
+      "org": "Pi Kappa Phi",
+      "total": 78.5,
+      "status": "★",
+      "current": 33
+    },
+    {
+      "org": "Sigma Alpha Epsilon",
+      "total": 49,
+      "status": "Unacceptable Year 1",
+      "current": 40
+    },
+    {
+      "org": "Sigma Chi",
+      "total": 96,
+      "status": "★★★",
+      "current": 47
+    },
+    {
+      "org": "Sigma Nu",
+      "total": 69.5,
+      "status": "Unacceptable Year 1",
+      "current": 39
+    },
+    {
+      "org": "Theta Chi",
+      "total": 77.5,
+      "status": "★",
+      "current": 38.5
+    },
+    {
+      "org": "Alpha Chi Omega",
+      "total": 99,
+      "status": "★★★",
+      "current": 46
+    },
+    {
+      "org": "Alpha Delta Pi",
+      "total": 100,
+      "status": "★★★",
+      "current": 46
+    },
+    {
+      "org": "Alpha Gamma Delta",
+      "total": 72,
+      "status": "★",
+      "current": 46
+    },
+    {
+      "org": "Alpha Omicron Pi",
+      "total": 100,
+      "status": "★★★",
+      "current": 43
+    },
+    {
+      "org": "Chi Omega",
+      "total": 99,
+      "status": "★★★",
+      "current": 44
+    },
+    {
+      "org": "Delta Gamma",
+      "total": 100,
+      "status": "★★★",
+      "current": 51
+    },
+    {
+      "org": "Delta Zeta",
+      "total": 88.5,
+      "status": "★★",
+      "current": 44
+    },
+    {
+      "org": "Kappa Delta",
+      "total": 100,
+      "status": "★★★",
+      "current": 49
+    },
+    {
+      "org": "Kappa Kappa Gamma",
+      "total": 100,
+      "status": "★★★",
+      "current": 52
+    },
+    {
+      "org": "Phi Mu",
+      "total": 100,
+      "status": "★★★",
+      "current": 49
+    },
+    {
+      "org": "Pi Beta Phi",
+      "total": 96.5,
+      "status": "★★★",
+      "current": 44
+    },
+    {
+      "org": "Sigma Kappa",
+      "total": 100,
+      "status": "★★★",
+      "current": 46
+    },
+    {
+      "org": "Zeta Tau Alpha",
+      "total": 100,
+      "status": "★★★",
+      "current": 45
+    },
+    {
+      "org": "Lambda Phi Epsilon",
+      "total": 81.5,
+      "status": "★★",
+      "current": 37.5
+    },
+    {
+      "org": "Sigma Beta Rho",
+      "total": 72.5,
+      "status": "★",
+      "current": 31
+    },
+    {
+      "org": "Sigma Sigma Rho",
+      "total": 92,
+      "status": "★★★",
+      "current": 45
+    },
+    {
+      "org": "Alpha Kappa Alpha",
+      "total": 85,
+      "status": "★★",
+      "current": 44.5
+    },
+    {
+      "org": "Phi Beta Sigma",
+      "total": 96,
+      "status": "★★★",
+      "current": 44
+    }
+  ],
+  "ay": [
+    {
+      "org": "Delta Phi Lambda",
+      "total": 90.5,
+      "status": "★★★",
+      "current": 17
+    },
+    {
+      "org": "Lambda Theta Alpha",
+      "total": 97,
+      "status": "★★★",
+      "current": 17
+    },
+    {
+      "org": "Lambda Theta Phi",
+      "total": 97,
+      "status": "★★★",
+      "current": 17
+    },
+    {
+      "org": "Alpha Phi Alpha",
+      "total": 83,
+      "status": "★★",
+      "current": 17
+    },
+    {
+      "org": "Delta Sigma Theta",
+      "total": 83.5,
+      "status": "★★",
+      "current": 17
+    },
+    {
+      "org": "Omega Psi Phi",
+      "total": 75,
+      "status": "★",
+      "current": 17
+    },
+    {
+      "org": "Sigma Gamma Rho",
+      "total": 98,
+      "status": "★★★",
+      "current": 17
+    },
+    {
+      "org": "Zeta Phi Beta",
+      "total": 76.5,
+      "status": "★",
+      "current": 17
+    },
+    {
+      "org": "Delta Delta Delta",
+      "total": 98.5,
+      "status": "★★★",
+      "current": 17
+    }
+  ]
+}
